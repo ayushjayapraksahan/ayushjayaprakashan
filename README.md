@@ -1,6 +1,5 @@
 <div align="center">
 
-type=waving&amp;color=0:0D1117,50:0B3D91,100:00D9FF&amp;height=180&amp;section=header&amp;text=Ayush%20Jayaprakashan&amp;fontSize=42&amp;fontColor=E6EDF3&amp;fontAlignY=35&amp;desc=Software%20Engineer%20%7C%20Inspired%20by%20Aerospace%20%26%20Defence%20Tech&amp;descAlignY=58&amp;descSize=16&amp;animation=fadeIn" width="100%" alt="header banner"/>
 
 <!-- ============ TYPING ANIMATION ============ -->
 <a href="#">
@@ -80,7 +79,7 @@ fun_fact: "I like my code the way I like satellites — well-tested before launc
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase&amp;theme=dark" alt="databases"/>
 
-**Tools & Platforms**
+**Tools &amp; Platforms**
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea,spring&amp;theme=dark" alt="tools"/>
 
@@ -95,7 +94,7 @@ fun_fact: "I like my code the way I like satellites — well-tested before launc
 
 | 🌱 Spring Boot | 🗄️ PostgreSQL | 🐳 Docker | ⚡ GitHub Actions | ☁️ DevOps | 🧩 System Design |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| Backend framework | Relational database | Containerization | CI/CD pipelines | Cloud & ops practices | Scalable architecture |
+| Backend framework | Relational database | Containerization | CI/CD pipelines | Cloud &amp; ops practices | Scalable architecture |
 
 </div>
 
