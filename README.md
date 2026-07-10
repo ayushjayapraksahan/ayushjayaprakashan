@@ -43,8 +43,7 @@ currently_learning:
   - DevOps
 
 interests:
-  - Solving hard problems
-  - Clean, reliable backend architecture
+  - Solving  problems
   - Aerospace & defence technology (as design inspiration ✈️🛰️)
 
 fun_fact: "I like my code the way I like satellites — well-tested before launch 🚀"
@@ -89,29 +88,12 @@ fun_fact: "I like my code the way I like satellites — well-tested before launc
 
 <br/>
 
-<!-- ============ 2026 GOALS ============ -->
-## 🎯 2026 Goals
-
-<div align="center">
-
-| Goal | Status |
-|---|:---:|
-| Contribute to Open Source | ✅ |
-| Build 10 Projects | ✅ |
-| Master Spring Boot | ✅ |
-| Learn Cloud | ✅ |
-| Get a Software Internship | ✅ |
-
-</div>
-
-<br/>
-
 <!-- ============ GITHUB STATISTICS ============ -->
 ## 📡 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ayushjayaprakashan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="GitHub Stats" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=00D9FF&fire=00D9FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushjayaprakashan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" width="49%"/>
@@ -134,7 +116,7 @@ fun_fact: "I like my code the way I like satellites — well-tested before launc
   Once configured, this image URL becomes live:
 -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/yourusername/ayushjayaprakashan/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/ayushjayaprakashan/ayushjayaprakashan/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 </div>
 
 <div align="center">
