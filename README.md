@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 <!-- ============ RADAR / SATELLITE TOP BANNER ============ -->
@@ -7,7 +5,7 @@
 
 <!-- ============ TYPING ANIMATION ============ -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=50&lines=Hi+%F0%9F%91%8B+I'm+Ayush+Jayaprakashan;Computer+Science+Engineering+Student;Java+Developer;Open+Source+Contributor;DevOps+Learner;Future+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=50&lines=Hi+%F0%9F%91%8B+I'm+Ayush+Jayaprakashan;Computer+Science+Engineering+Student;DevOps+Learner;Future+Software+Engineer" alt="Typing SVG" />
 </a>
 
 🛰️ <i>Engineering software with the precision of aerospace systems</i>
@@ -23,6 +21,16 @@
 
 <!-- ============ THIN RADAR-LINE DIVIDER ============ -->
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/other-1.gif" width="100%" height="2" alt="divider"/>
+
+<!-- ============ BINARY BOOT-SEQUENCE ANIMATION ============ -->
+<!-- Decodes: 01010011 01011001 01010011 01010100 01000101 01001101 00100000 01001111 01001110 01001100 01001001 01001110 01000101 → "SYSTEM ONLINE" -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2200&pause=900&color=00D9FF&center=true&vCenter=true&width=700&height=30&lines=01010011+01011001+01010011+01010100+01000101+01001101+00100000+01001111+01001110+01001100+01001001+01001110+01000101;%3E+SYSTEM+STATUS%3A+ONLINE+%F0%9F%9B%B0%EF%B8%8F" alt="binary boot sequence"/>
+
+</div>
+
+<br/>
 
 ## 🧭 About Me
 
@@ -43,7 +51,7 @@ currently_learning:
   - DevOps
 
 interests:
-  - Solving  problems
+  - Solving problems
   - Aerospace & defence technology (as design inspiration ✈️🛰️)
 
 fun_fact: "I like my code the way I like satellites — well-tested before launch 🚀"
@@ -55,9 +63,15 @@ fun_fact: "I like my code the way I like satellites — well-tested before launc
 
 <br/>
 
+<!-- ============ TECH STACK — ANIMATED BINARY DECODE ============ -->
+<!-- Decodes: 01010100 01000101 01000011 01001000 00100000 01010011 01010100 01000001 01000011 01001011 → "TECH STACK" -->
 ## ⚙️ Tech Stack
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=35&lines=01010100+01000101+01000011+01001000+00100000+01010011+01010100+01000001+01000011+01001011;%3C+TECH+STACK+%2F%3E" alt="tech stack binary decode"/>
+
+<br/><br/>
 
 **Languages**
 
@@ -94,7 +108,7 @@ fun_fact: "I like my code the way I like satellites — well-tested before launc
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ayushjayaprakashan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=00D9FF&fire=00D9FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushjayaprakashan&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=00D9FF&fire=00D9FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushjayaprakashan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" width="49%"/>
 <img src="https://github-profile-trophy.vercel.app/?username=ayushjayaprakashan&theme=onedark&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies" width="49%"/>
@@ -113,13 +127,12 @@ fun_fact: "I like my code the way I like satellites — well-tested before launc
 
 <br/>
 
-
 <!-- ============ CONNECT SECTION ============ -->
 ## 📡 Connect With Me
 
 <div align="center">
 
-<a href="www.linkedin.com/in/ayush-jayaprakashan-356481327" target="_blank">
+<a href="https://www.linkedin.com/in/ayush-jayaprakashan-356481327" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/ayushjayaprakashan" target="_blank">
