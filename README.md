@@ -102,31 +102,6 @@ fun_fact: "I like my code the way I like satellites — well-tested before launc
 
 <br/>
 
-<!-- ============ GITHUB STATISTICS ============ -->
-## 📡 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ayushjayaprakashan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushjayaprakashan&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=00D9FF&fire=00D9FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushjayaprakashan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" width="49%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=ayushjayaprakashan&theme=onedark&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies" width="49%"/>
-
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/ayushjayaprakashan/ayushjayaprakashan/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
-</div>
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=ayushjayaprakashan&color=58A6FF&style=flat-square&label=Profile+Views)
-
-</div>
-
-<br/>
-
 <!-- ============ CONNECT SECTION ============ -->
 ## 📡 Connect With Me
 
@@ -135,7 +110,7 @@ fun_fact: "I like my code the way I like satellites — well-tested before launc
 <a href="https://www.linkedin.com/in/ayush-jayaprakashan-356481327" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/ayushjayaprakashan" target="_blank">
+<a href="https://github.com/ayushjayapraksahan" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
 </a>
 <a href="mailto:ayushprakash1984@gmail.com">
