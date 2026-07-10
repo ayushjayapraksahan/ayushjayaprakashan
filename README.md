@@ -39,7 +39,6 @@
 ```yaml
 whoami:
   name: "Ayush Jayaprakashan"
-  role: ["Computer Science Engineering Student", "Java Developer", "Open Source Contributor"]
   focus: "Backend Development &amp; Distributed Systems"
 
 currently_learning:
