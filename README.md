@@ -113,60 +113,6 @@ fun_fact: "I like my code the way I like satellites — well-tested before launc
 
 <br/>
 
-<!-- ============ FEATURED PROJECTS ============ -->
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 📊 Student Performance Analyzer
-Analyzes and visualizes student academic performance data to surface actionable insights.
-
-<img src="https://img.shields.io/badge/-Java-161B22?style=flat-square&logo=java&logoColor=00D9FF"/> <img src="https://img.shields.io/badge/-MySQL-161B22?style=flat-square&logo=mysql&logoColor=00D9FF"/>
-
-[`View Repository →`](https://github.com/ayushjayaprakashan/student-performance-analyzer)
-
-</td>
-<td width="50%">
-
-### 🌍 Travel Collaboration Platform
-A collaborative platform for planning and sharing travel itineraries with friends.
-
-<img src="https://img.shields.io/badge/-Java-161B22?style=flat-square&logo=java&logoColor=00D9FF"/> <img src="https://img.shields.io/badge/-Spring%20Boot-161B22?style=flat-square&logo=springboot&logoColor=00D9FF"/>
-
-[`View Repository →`](https://github.com/ayushjayaprakashan/travel-collaboration-platform)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🖥️ Portfolio Website
-A personal portfolio website showcasing projects, skills, and experience.
-
-<img src="https://img.shields.io/badge/-HTML-161B22?style=flat-square&logo=html5&logoColor=00D9FF"/> <img src="https://img.shields.io/badge/-CSS-161B22?style=flat-square&logo=css3&logoColor=00D9FF"/> <img src="https://img.shields.io/badge/-JavaScript-161B22?style=flat-square&logo=javascript&logoColor=00D9FF"/>
-
-[`View Repository →`](https://github.com/ayushjayaprakashan/portfolio-website)
-
-</td>
-<td width="50%">
-
-### 💰 Expense Tracker
-A clean expense tracking application to manage and analyze personal finances.
-
-<img src="https://img.shields.io/badge/-Java-161B22?style=flat-square&logo=java&logoColor=00D9FF"/> <img src="https://img.shields.io/badge/-PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=00D9FF"/>
-
-[`View Repository →`](https://github.com/ayushjayaprakashan/expense-tracker)
-
-</td>
-</tr>
-</table>
-
-</div>
-
 
 <!-- ============ CONNECT SECTION ============ -->
 ## 📡 Connect With Me
