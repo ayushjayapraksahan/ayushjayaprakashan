@@ -101,20 +101,6 @@ fun_fact: "I like my code the way I like satellites — well-tested before launc
 
 </div>
 
-### 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushjayaprakashan&theme=react-dark&bg_color=0D1117&color=58A6FF&line=00D9FF&point=E6EDF3&hide_border=true" alt="contribution graph" width="100%"/>
-
-</div>
-
-<!--
-  Optional: contribution "snake" animation.
-  Requires a one-time GitHub Actions workflow setup — see:
-  https://github.com/Platane/snk
-  Once configured, this image URL becomes live:
--->
 <div align="center">
 <img src="https://raw.githubusercontent.com/ayushjayaprakashan/ayushjayaprakashan/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 </div>
