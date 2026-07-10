@@ -52,7 +52,7 @@ interests:
   - Solving problems
   - Aerospace &amp; defence technology (as design inspiration ✈️🛰️)
 
-fun_fact: "I like my code the way I like satellites — well-tested before launch 🚀"
+fun_fact: "I like my code the way I like satellites "
 ```
 
 </td>
@@ -124,7 +124,7 @@ fun_fact: "I like my code the way I like satellites — well-tested before launc
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/other-1.gif" width="100%" height="2" alt="divider"/>
 
-<i>"Building secure, reliable and innovative software — inspired by aerospace engineering."</i>
+<i>"Building secure, reliable and innovative software"</i>
 
 <br/><br/>
 
